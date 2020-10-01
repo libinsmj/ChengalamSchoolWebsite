@@ -106,7 +106,7 @@ $conn=mysqli_connect('localhost','root','');
                     
                     <div class="menu-wrapper">
                         <ul class="menu">
-                            <li><a class="homebutton" href="#">Home</a></li>
+                            <li><a class="homebutton" href="home.php">Home</a></li>
                             <li><a class="show-1" href="#">About</a></li>
                              <li><a class="show-2" href="#" onClick="templatemo_map();">Contact</a></li>
                             <li><a class="show-3" href="#">Our Resources</a></li>
